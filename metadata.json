@@ -1,0 +1,6 @@
+{
+  "name": "Fynance Bro",
+  "description": "AI-powered financial modeling and equity research platform that transforms 10-K filings into historical models, forecasts, DCF valuations, and formula-driven Excel and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
